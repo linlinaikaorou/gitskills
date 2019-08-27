@@ -1,1 +1,2 @@
 gitskills add test.txt file.
+git remote rm gitskills.
